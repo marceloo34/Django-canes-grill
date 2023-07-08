@@ -30,7 +30,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     '127.0.0.1',
     'localhost',
-    'marcelo-churras.onrender.com',
+    'https://marcelo-churras.onrender.com',
 ]
 
 
